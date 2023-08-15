@@ -1,12 +1,16 @@
 import React from 'react';
-import './Nevbar.css'
+import './Nevbar.css' 
 
 const Nevbar = () => {
     return (
-        <div className='nev'>
-               <h2>This is Nevbar</h2>
-       
+     <nav>
+        <div>
+            <img src="" alt="" />
         </div>
+        <div>
+
+        </div>
+     </nav>
             
     );
 };
