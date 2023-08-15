@@ -13,9 +13,9 @@ const Nevbar = () => {
 
         <div className='button'>
               <a className='ab1' href="">Order</a>
-              <a className='ab2' href="">Order Review</a>
-              <a className='ab3' href="">Manage inventroy</a>
-              <a className='ab4' href="">Login</a>
+              <a className='ab1' href="">Order Review</a>
+              <a className='ab1' href="">Manage inventroy</a>
+              <a className='ab1' href="">Login</a>
         </div>
      </nav>
             
