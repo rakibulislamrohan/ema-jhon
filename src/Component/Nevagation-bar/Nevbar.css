@@ -1,0 +1,26 @@
+.nevbar{
+    background-color: #1C2B35;
+    height: 80px;
+    width: 1440px;
+    display: flex;
+}
+.logo{
+    text-align: left;
+    padding-left: 20px;
+}
+.button{
+  padding-left: 700px;
+  gap: 20px;
+}
+.ab1{
+    padding: 10px;
+}
+.ab2{
+    padding: 10px;
+}
+.ab3{
+    padding: 10px;
+}
+.ab4{
+   padding: 10px;
+}
